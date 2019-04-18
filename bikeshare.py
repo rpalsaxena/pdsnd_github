@@ -272,6 +272,9 @@ def main():
         user_stats(df)
         raw_data(df)
  
+ 
+ adsf
+ adsf
         """ Asks user to restart program and clears screen if yes """
  
         restart = input('\nWould you like to restart?  (Yes or No)\n> ')
